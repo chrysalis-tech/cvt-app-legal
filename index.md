@@ -43,7 +43,7 @@ Hemos implementado medidas de seguridad técnicas y organizativas apropiadas di
 ## ¿RECOPILAMOS INFORMACIÓN DE MENORES?
 
 No solicitamos a sabiendas datos a niños menores de 12 años. Al usar las Aplicaciones, usted declara que tiene al menos 12 años o que es el padre o tutor de dicho menor y
-acepta el uso de las Aplicaciones por parte de dicho dependiente menor. Si tiene conocimiento de los datos que hemos recopilado de niños menores de 12 años, contáctenos al correo: 
+acepta el uso de las Aplicaciones por parte de dicho dependiente menor. Si tiene conocimiento de los datos que hemos recopilado de niños menores de 12 años, contáctenos al correo: email@email.com
 
 ## ¿CUÁLES SON SUS DERECHOS DE PRIVACIDAD?
 
@@ -52,3 +52,11 @@ Se garantiza el derecho de toda persona al acceso de sus datos personales, recti
 ## ¿ACTUALIZAMOS ESTA POLÍTICA?
 
 Podemos actualizar este aviso de privacidad de vez en cuando. La versión actualizada se indicará mediante una fecha de última actualización y la versión actualizada entrará en vigencia tan pronto como sea accesible. Si realizamos cambios materiales en este aviso de privacidad, podemos notificarlo ya sea publicando un aviso destacado de dichos cambios o enviándole directamente una notificación. Le recomendamos que revise este aviso de privacidad con frecuencia para estar informado de cómo protegemos su información.
+
+## ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTA POLÍTICA?
+
+Si tiene preguntas o comentarios sobre esta política, puede enviarnos un correo electrónico a email@email.com
+
+## ¿CÓMO PUEDE REVISAR, ACTUALIZAR O ELIMINAR LOS DATOS QUE RECOPILAMOS DE USTED?
+
+Usted tiene derecho a solicitar acceso a la información personal que recopilamos de usted, cambiar esa información o eliminarla en algunas circunstancias. Para solicitar revisar, actualizar o eliminar su información personal, envíe un correo a email@email.com
