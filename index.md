@@ -1,6 +1,6 @@
 # POLÍTICA DE PRIVACIDAD
 
-Última actualización: 19 de Marzo de 2021.
+Última actualización: 1 de Abril de 2021.
 
 Este aviso de privacidad se aplica a toda la información recopilada a través de nuestra aplicación móvil CVT Score Calculator.
 
@@ -43,7 +43,7 @@ Hemos implementado medidas de seguridad técnicas y organizativas apropiadas di
 ## ¿RECOPILAMOS INFORMACIÓN DE MENORES?
 
 No solicitamos a sabiendas datos a niños menores de 12 años. Al usar las Aplicaciones, usted declara que tiene al menos 12 años o que es el padre o tutor de dicho menor y
-acepta el uso de las Aplicaciones por parte de dicho dependiente menor. Si tiene conocimiento de los datos que hemos recopilado de niños menores de 12 años, contáctenos al correo: email@email.com
+acepta el uso de las Aplicaciones por parte de dicho dependiente menor. Si tiene conocimiento de los datos que hemos recopilado de niños menores de 12 años, contáctenos al correo: [info@chrysalis-tech.com](mailto:info@chrysalis-tech.com?subject=CVTApp)
 
 ## ¿CUÁLES SON SUS DERECHOS DE PRIVACIDAD?
 
@@ -55,8 +55,8 @@ Podemos actualizar este aviso de privacidad de vez en cuando. La versión actua
 
 ## ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTA POLÍTICA?
 
-Si tiene preguntas o comentarios sobre esta política, puede enviarnos un correo electrónico a email@email.com
+Si tiene preguntas o comentarios sobre esta política, puede enviarnos un correo electrónico a [info@chrysalis-tech.com](mailto:info@chrysalis-tech.com?subject=CVTApp)
 
 ## ¿CÓMO PUEDE REVISAR, ACTUALIZAR O ELIMINAR LOS DATOS QUE RECOPILAMOS DE USTED?
 
-Usted tiene derecho a solicitar acceso a la información personal que recopilamos de usted, cambiar esa información o eliminarla en algunas circunstancias. Para solicitar revisar, actualizar o eliminar su información personal, envíe un correo a email@email.com
+Usted tiene derecho a solicitar acceso a la información personal que recopilamos de usted, cambiar esa información o eliminarla en algunas circunstancias. Para solicitar revisar, actualizar o eliminar su información personal, envíe un correo a [info@chrysalis-tech.com](mailto:info@chrysalis-tech.com?subject=CVTApp)
